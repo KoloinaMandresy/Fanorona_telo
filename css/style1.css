@@ -1,0 +1,64 @@
+
+body{
+    background-color: burlywood;
+}
+form{
+    margin-left: 372px;
+    margin-top: 38px;
+    background-image: url('../img/img1.jpg');
+    background-repeat: no-repeat;
+    background-size: 500px;
+    
+}
+
+.btn{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border-color: rgba(222, 184, 135, 0);
+    background-color: transparent;
+}
+.span1{
+    margin-right: 168px;
+    
+}
+.span2{
+    margin-right: 168px;
+    
+
+}
+.span3{
+    margin-right: 168px;
+    
+}
+.div2{
+    margin-top:170px;
+}
+.div3{
+    margin-top:165px;
+}
+.adv1{
+    background-color:green;
+    border-color: green;
+}
+.adv2{
+    background-color:red;
+    border-color:red;
+}
+#comme{
+    margin-left:500px;
+    margin-top: 30px;
+    font-size: 20px;
+    border-radius: 12px;
+}
+
+.gros{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+#img{
+    height: 50px;
+    width: 50px;
+   
+}
